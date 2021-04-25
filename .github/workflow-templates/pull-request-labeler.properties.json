@@ -1,0 +1,11 @@
+{
+  "name": "PR Labeler",
+  "description": "Appling automatically labels to the pull requests when they are opened",
+  "iconName": "pr-labeler.svg",
+  "categories": [
+    "Automation",
+    "Continuous integration",
+    "Utilities"
+
+  ]
+}
